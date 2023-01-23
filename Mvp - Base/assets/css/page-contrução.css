@@ -1,0 +1,14 @@
+.container-01 {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15rem;
+}
+.img-svg-body{
+  align-items: center;
+  max-width:25%;
+  height: auto;
+}
